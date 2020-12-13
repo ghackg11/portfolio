@@ -23,7 +23,7 @@ const RESOURCES = {
 "assets/assets/linkedinIcon.png": "f15ae5ad5285c0489b68f227bb46e32f",
 "assets/assets/main_vector.png": "4983c92d962e835cee0796b20f769b52",
 "assets/assets/me.png": "6c4504917ca4774c758880b6739ede3b",
-"assets/assets/projects.png": "28f53ece4670590589d88f275ae51c2d",
+"assets/assets/projects.png": "8e1c78b5f419d2019f49ad5e70b28de4",
 "assets/assets/vector_programmer.png": "abb12714145357cc3b96025d473ee2f5",
 "assets/FontManifest.json": "e0db4d6da3eede11b4e437ab4a134d0c",
 "assets/fonts/MaterialIcons-Regular.otf": "1288c9e28052e028aba623321f7826ac",
@@ -33,9 +33,9 @@ const RESOURCES = {
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "f627372630a2aee4b4ed05c84e3e6f74",
-"/": "f627372630a2aee4b4ed05c84e3e6f74",
-"main.dart.js": "f09115938124b5c2238e757a5119d8f9",
+"index.html": "5578457f5a719e487cf1b1d03753e052",
+"/": "5578457f5a719e487cf1b1d03753e052",
+"main.dart.js": "9d002ca593ea1ecdfb7adb214adc5c15",
 "manifest.json": "75721181c830e84b9d2b33e7c2b97e0a",
 "version.json": "426313f2f3133c2f20415344c4a22df3"
 };
